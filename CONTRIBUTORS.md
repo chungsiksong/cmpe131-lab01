@@ -1,1 +1,3 @@
-# Contributors for the project: John Doe
+# Project Contributors
+* John Doe
+* Kevin Pham
