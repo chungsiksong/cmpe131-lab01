@@ -1,1 +1,5 @@
-# Contributors for the project:
+# Project Contributors:
+* John Doe
+* Kevin Pham
+* Cagla Sah
+  
