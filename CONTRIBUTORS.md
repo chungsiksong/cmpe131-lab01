@@ -1,1 +1,1 @@
-# Contributors for the project:
+# Contributors for the project: Jimmy Nguyen
