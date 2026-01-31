@@ -1,3 +1,3 @@
 # Contributors for the project:
-* [Luke]
-* [Khai]
+Contributors for the project: [Luke]
+ Contributors for the project: [Khai]
