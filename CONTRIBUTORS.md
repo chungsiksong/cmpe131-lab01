@@ -1,1 +1,2 @@
-# Contributors for the project:
+# Contributors for the project: Johnny Appleseed
+# Contributors for the project: Yve Do
