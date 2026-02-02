@@ -1,6 +1,6 @@
 # Contributors for the project:
 
-* Lucas
+# Contributors for the project: Lucas
 
-* Nyan Htet Win
+# Contributors for the project: Nyan Htet Win
  
