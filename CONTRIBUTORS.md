@@ -1,1 +1,3 @@
-# Contributors for the project:
+# Contributors for the project: [nala seyer]
+# Contributors for the project: [alan reyes]
+
