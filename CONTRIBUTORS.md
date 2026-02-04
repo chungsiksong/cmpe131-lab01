@@ -1,1 +1,2 @@
-# Contributors for the project:
+# Contributors for the project: Lina
+# Contributors for the project: Dan
