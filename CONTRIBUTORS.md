@@ -1,1 +1,3 @@
-# Contributors for the project:
+# Contributors for the project: Etan
+
+# Contributors for the project: Lucia
