@@ -1,1 +1,3 @@
-# Contributors for the project:
+# Contributors for the project: Klein Moretti
+
+# Contributors for the project: Dylan Snellstrom
