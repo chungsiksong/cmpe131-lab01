@@ -1,2 +1,4 @@
 # Contributors for the project:
-* [name different from yours
+
+- [name different from yours]
+- [Deep Patel]
