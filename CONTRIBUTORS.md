@@ -1,1 +1,2 @@
-# Contributors for the project:
+# Contributors for the project: Sydney
+# Contributors for the project: Vincent Nguyen
