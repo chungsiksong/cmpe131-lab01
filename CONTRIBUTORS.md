@@ -1,1 +1,3 @@
-# Contributors for the project:
+# Contributors for the project: Michael Afton
+
+# Contributors for the project: Chufue Lor
